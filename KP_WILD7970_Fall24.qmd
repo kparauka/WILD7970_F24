@@ -101,3 +101,13 @@ Realistically, I don't think that I would ever try pre-printing a manuscript. An
 *Explain how you would define an "ethical journal."*
 
 I think, foremost, an ethical journal seeks to balance operating costs and profit margins in a way that minimizes financial barriers to access on the readers' end. Essentially, I would expect it to collect a more modest profit. And I think that the core values of an ethical journal are important too. They should strive to uphold scientific rigor and make the pursuit and dissemination of knowledge their primary goals, not generating profit. I think that an ethical journal takes accountability for the science that it publishes, and is willing to reject or retract work that lacks integrity.
+
+------------------------------------------------------------------------
+
+## Writing Prompt - Week 9
+
+*You're at a holiday dinner, and you are discussing your thesis/dissertation with family around the table. Just as you finish describing your awesome statistical analysis that you worked super hard on, and telling everyone what it means for your results, one of your family members says "Isn't it true that you can kind of make statistics say anything?" Use our conversation from this week to formulate a response to this family member.*
+
+Not to be pedantic, but I wouldn't say that you can make statistics say "anything." You can certainly say things that are misleading and (sometimes) things that aren't true, but at some point you're still limited by the data that you have.
+
+At the end of the day, the person calculating the statistics should seek to uncover patterns in the data honestly, not trying to manipulate them to fit a narrative. And when trying to determine the merit of some statistic, you should probably be looking for transparency at every stage of the analysis - from data collection, to methodology, to results and interpretation, to conflicts of interest and disclosure statements.
