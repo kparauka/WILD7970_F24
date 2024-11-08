@@ -111,3 +111,13 @@ I think, foremost, an ethical journal seeks to balance operating costs and profi
 Not to be pedantic, but I wouldn't say that you can make statistics say "anything." You can certainly say things that are misleading and (sometimes) things that aren't true, but at some point you're still limited by the data that you have.
 
 At the end of the day, the person calculating the statistics should seek to uncover patterns in the data honestly, not trying to manipulate them to fit a narrative. And when trying to determine the merit of some statistic, you should probably be looking for transparency at every stage of the analysis - from data collection, to methodology, to results and interpretation, to conflicts of interest and disclosure statements.
+
+------------------------------------------------------------------------
+
+## Writing Prompt - Week 10
+
+*Describe a citizen science project that could be applied to your research area. Outline the project's goals, the type of data participants would collect, and how it could advance your research. Briefly discuss the potential advantages of this approach, as well as possible pitfalls such as data quality, participant engagement, or logistical challenges.*
+
+While this isn't really pertinent to my research (more so fisheries ecology generally), I think that investigations of mass mortality events (i.e., fish kills) could benefit from citizen participation. Many agencies are equipment- and personnel-limited, which can hinder efforts to detail the losses and spatial extent of these events. Creating a simple, digital form that people can use to report fish kills could help biologists respond more quickly, as well as gather information on affected areas that they may not be adequately equipped to survey themselves. These forms could be easily accessed with signage and QR codes posted at boat ramps or other water access points and could allow people to upload photos to support their observations.
+
+I don't think that data quality would be much of a concern here. Ultimately what's being reported by the "citizen" is an observation of a dead fish (or multiple dead fish) at some location, which is straightforward. But I do think that participation might be more difficult to attain. My experience with anglers in the Southeast is that they tend to be a rather disagreeable, anti-establishment crowd, however, there are lots of other water recreators that would likely be more receptive to this program.
